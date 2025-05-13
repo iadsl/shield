@@ -15,6 +15,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >   
     
+  - align: left
+    image: profiles/haoyu-li.jpg
+    content: about_haoyu-li.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+    
   - align: right
     image: profiles/nishan-khanal.jpg
     content: about_nishan-khanal.md
