@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/shield/people/";
           },
+        },{id: "nav-references",
+          title: "References",
+          description: "A curated list of recent research and implementations using Mamba-based state space models.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/shield/references/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
